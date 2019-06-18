@@ -13,4 +13,7 @@ public class OnetoOneCrudRepositoryApplicationTests {
 	public void contextLoads() {
 	}
 
+	public void login() {
+	}
+
 }
